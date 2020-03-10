@@ -39,5 +39,5 @@ $ clang -O3 -lvi-hardening my_file.c \
 
 Debugging
 ---------
-When using a DEBUG build (i.e., `CMAKE_BUILD_TYPE=RELEASE`), this plugin emits
+When using a DEBUG build (i.e., `CMAKE_BUILD_TYPE=DEBUG`), this plugin emits
 detailed information about the optimizations it is performing.
