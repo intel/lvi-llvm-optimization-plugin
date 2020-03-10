@@ -41,6 +41,9 @@ $ clang -O3 -lvi-hardening my_file.c \
     -mllvm -x86-lvi-load-opt-plugin=<path-to-plugin-install>/OptimizeCut.so
 ```
 
+At the time of this writing, the patch that enables LVI load hardening can be
+found here: https://reviews.llvm.org/D75938.
+
 Debugging
 ---------
 When using a DEBUG build (i.e., `CMAKE_BUILD_TYPE=DEBUG`), this plugin emits
