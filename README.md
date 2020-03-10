@@ -1,6 +1,10 @@
 Load Value Injection (LVI) Minimum Multi-Cut Optimization Plugin for LLVM
 =========================================================================
 
+A document describing this mitigation can be found here:
+
+https://software.intel.com/security-software-guidance/insights/optimized-mitigation-approach-load-value-injection
+
 Prerequisites
 -------------
 The LVI optimizing plugin has the following dependencies:
