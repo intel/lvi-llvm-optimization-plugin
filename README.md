@@ -1,5 +1,7 @@
-Load Value Injection (LVI) Minimum Multi-Cut Optimization Plugin for LLVM
-=========================================================================
+Load Value Injection Optimization Plugin for LLVM* Project
+==========================================================
+
+*Other names and brands may be claimed as the property of others.
 
 A document describing this mitigation can be found here:
 
